@@ -1,0 +1,28 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scrape files from web",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-ash/node_web_scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "module",
+    "npm"
+  ],
+  "author": "sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-ash/node_web_scraper/issues"
+  },
+  "homepage": "https://github.com/sam-ash/node_web_scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
